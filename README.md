@@ -64,7 +64,7 @@ This is a living document. If you work in GRC, TPRM, or information security and
 ## Author
 
 **Ayooluwanitemi Kaiyewu** — GRC and Vendor Risk Analyst | ISO 42001 AI Governance | TPRM  
-[LinkedIn](https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/) · [GitHub](https://github.com/temikaiyewu-imet/)
+[LinkedIn](https://www.linkedin.com/in/ayooluwanitemi-kaiyewu-5b7aa9190/) ·[Email](temikaiyewu@gmail.com) . [GitHub](https://github.com/temikaiyewu-imet/)
 
 ---
 
