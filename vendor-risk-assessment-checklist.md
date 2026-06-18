@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Framework alignment:** ISO 27001 · NIST CSF · SOC 2 · ISO 42001 · GDPR/NDPR  
-**Use with:** `vendor-tiering-guide.md` to determine which sections apply
+**Use with:** [vendor-tiering-guide.md](vendor-tiering-guide.md) to determine which sections apply
 
 ---
 
@@ -179,5 +179,5 @@
 
 ---
 
-*For scoring methodology, see `vendor-risk-scoring-matrix.md`*  
-*For register logging, see `vendor-risk-register-template.md`*
+*For scoring methodology, see [vendor-risk-scoring-matrix.md](vendor-risk-scoring-matrix.md)*  
+*For register logging, see [vendor-risk-register-template.md](vendor-risk-register-template.md)*
